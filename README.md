@@ -1,6 +1,6 @@
-# cLog
+# Colorfule
 
-A simple and colorful logger and message printer for Go.
+A simple and colorful message printer in Go.
 
 ## Install
 
