@@ -6,7 +6,7 @@ A simple and colorful logger and message printer for Go.
 
 `go get github.com/superiss/clog`
 
-# Usage
+## Usage
 
 ```go
 logger = colorful.New()
