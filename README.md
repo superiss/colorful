@@ -4,7 +4,7 @@ A simple and colorful message printer in Go.
 
 ## Install
 
-`go get github.com/superiss/clog`
+`go get github.com/superiss/colorful`
 
 ## Usage
 
